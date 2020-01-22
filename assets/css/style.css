@@ -1,0 +1,43 @@
+body{
+    font-family: 'Cabin', bold;
+}
+
+.hero-section{
+    text-align: center;
+    background-image: url('../img/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+    padding: 6.25rem 3.125rem;
+
+}
+
+
+.experiencia{
+    color: blue;
+    text-align: center;
+}
+
+.oscuro {
+    background: #000f08;
+    color: #ffffff;
+  }
+  
+  .oscuro a{
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .foo li {
+    display: inline-block;    
+  }
+
+  .newsletter{
+    font-family: 'Cabin', bold;
+    size: 46pt;
+    color: #ffffff;
+}
+
+
